@@ -1,0 +1,111 @@
+body p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 20%;
+    text-align: center;
+    text-shadow: 11px 13px 8px #0015FF;
+}
+
+
+
+#submit {
+	background-color: #D4AF37;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 200%;
+	height: 30%;
+	border-radius: 15px;
+	width: 390px
+}
+
+#studentmajor
+{
+	text-align: center;
+	font-size: x-large;
+	height: 50%;
+	background-color: #FFFFFFF;
+	color: #000000;
+	border: 4px solid #D4AF37;
+	border-radius: 15px;
+}
+input {
+    font-size: xx-large;
+}
+body table {
+	border: none;
+}
+.tableOutline {
+	text-align: center;
+	border: none;
+}
+.tableOutline2{
+	text-align: center;
+	border: none;
+}
+.tableOutline3
+{
+	text-align: center;
+	border: none;
+}
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) 
+	{
+		body p {
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+		font-size: 20%;
+		text-align: center;
+		text-shadow: 11px 13px 8px #0015FF;
+	}
+
+
+
+	#submit {
+		background-color: #D4AF37;
+		border: none;
+		color: white;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 200%;
+		height: 30%;
+		border-radius: 15px;
+		width: 390px
+	}
+
+	#studentmajor
+	{
+		text-align: center;
+		font-size: x-large;
+		height: 50%;
+		background-color: #FFFFFFF;
+		color: #000000;
+		border: 4px solid #D4AF37;
+		border-radius: 15px;
+	}
+	input {
+		font-size: xx-large;
+	}
+	body table {
+		border: none;
+	}
+	.tableOutline {
+		text-align: center;
+		border: none;
+	}
+	.tableOutline2{
+		text-align: center;
+		border: none;
+	}
+	.tableOutline3
+	{
+		text-align: center;
+		border: none;
+	}
+
+
+	}
